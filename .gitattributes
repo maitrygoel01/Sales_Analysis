@@ -1,0 +1,15 @@
+# Ignore HTML/CSS so they don’t dominate
+*.html linguist-detectable=false
+*.css linguist-detectable=false
+
+# Mark Jupyter Notebook output as generated (optional but useful)
+*.ipynb linguist-detectable=true
+*.ipynb linguist-generated=true
+
+# Ensure Python is counted
+*.py linguist-detectable=true
+
+# Ignore common unnecessary folders
+node_modules/* linguist-vendored=true
+dist/* linguist-generated=true
+build/* linguist-generated=true
