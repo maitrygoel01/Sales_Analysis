@@ -1,5 +1,4 @@
-# Sales_Analysis
-# 📊 Sales Analysis (EDA Project)
+# 📊 Sales Analysis 
 
 ## 🎯 Objectives
 - Analyze customer purchasing behavior during festive sales  
